@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 1.0;
+    padding: 0;
+    background-color: pastelpink;
+}
+
+header {
+    background-color: lightpink;
+    color: black;
+    text-align: center;
+    padding: 5em;
+    font-family: Courier New;
+    font-size: 240;
+}
+p1{ 
+  font-style: italic;
+  font-family: Courier;
+  color:white;
+
+main {
+    padding: 20px;
+color: darkpink;
+font-size: 24;
+font-family: Sans-Serif;
+background-color: darkpink;
+}
+h2{
+  font-style: Bold;
+}
+  
+footer {
+    background-color: red;
+    color: darkpink;
+    text-align: left;
+    padding: 1em;
+    position: fixed;
+    bottom: 1.0;
+    width: 100%;
+}
